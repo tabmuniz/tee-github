@@ -1,2 +1,2 @@
 # tee-github
-Understanding GitHub
+Understanding GitHub: this is for tutorial purposes.
